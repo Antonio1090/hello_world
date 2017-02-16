@@ -1,4 +1,4 @@
-# hello_world
+# HOLA MUNDO
 Primera  practica en  git
 
 Hola  bienvenidos  estoy haciendo  mi primera introduccion
